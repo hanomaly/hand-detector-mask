@@ -8,7 +8,6 @@ const int echoPin = 9;
 // defines variables
 long duration;
 int distance;
-int t;
 
 // defines the audio sample
 const unsigned char sample[] PROGMEM = {
